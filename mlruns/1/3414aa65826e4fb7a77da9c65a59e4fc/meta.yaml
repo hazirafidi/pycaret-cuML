@@ -1,0 +1,16 @@
+artifact_uri: file:///home/hazirafidi/rapid/pycaret%2BcuML/mlruns/1/3414aa65826e4fb7a77da9c65a59e4fc/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3414aa65826e4fb7a77da9c65a59e4fc
+run_uuid: 3414aa65826e4fb7a77da9c65a59e4fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663852110035
+status: 1
+tags: []
+user_id: hazirafidi
